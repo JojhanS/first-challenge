@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* Style for main */
 body {
     background-color: #d9dcd6;
 }
@@ -24,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Changes div to nav to reflect changes on the HTML */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -84,6 +86,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Consolidated the different benefits classes to one class */
 .benefitsList {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,6 +103,7 @@ p {
     max-width: 150px;
 }
 
+/* Consolidated the different paragraph classes to one class */
 .mainParagraph {
     margin-bottom: 20px;
     padding: 50px;
